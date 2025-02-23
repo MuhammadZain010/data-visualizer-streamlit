@@ -62,11 +62,3 @@ Users can **download** the cleaned and converted files.
 - **Pandas** 🏗️: For handling CSV and Excel files.
 - **Streamlit** 🎨: For building the interactive web interface.
 
-## 📜 License
-
-This project is open-source and available for modification and distribution.
-
-## 👨‍💻 Author
-
-Developed by **[Your Name]**.
-
